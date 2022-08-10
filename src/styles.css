@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.starRating {
+  padding-top: 20%;
+}
+.star {
+  font-size: 60px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.off {
+  color: #ccc;
+}
+.on {
+  color: #000;
+}
